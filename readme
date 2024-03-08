@@ -1,12 +1,11 @@
 # Overview
 
-{Provide a description of the software that you wrote.}
-
 I wrote a program that allows a user to upload a 3d gltf objects and view that objects. the user can orbit around the object, zoom and pan. I formated the project so that multiple cards will appear each with their own 3d object. when a user hovers over a card the placeholder image his hidden and the 3d screen is revealed.
 
-{Describe your purpose for writing this software.}
-
 I want to make a website for displaying and selling 3d assets and this project was a demo of the future functionality I will need to impement for that website.
+
+video demo.
+https://youtu.be/iYB0GOhSCwM
 
 # Development Environment
 
